@@ -1,0 +1,38 @@
+body {
+    min-width: 775px;
+    min-height: 128px;
+}
+
+.gbut-buy-monet {
+    background: #79A552;
+    width: 196px;
+    display: block;
+    margin: 0 auto;
+    padding: 9px 0 8px 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.85);
+    text-shadow: none;
+    border: none;
+    text-transform: uppercase;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.gbut-buy-monet:hover {
+    background: #E55B5B;
+    color: rgba(255, 255, 255, 0.85);
+    box-shadow: none;
+}
+
+.infobox {
+    text-align: center;
+}
+
+.ucp_link2 {
+    margin-right: 5px;
+    display: inline-block;
+}
