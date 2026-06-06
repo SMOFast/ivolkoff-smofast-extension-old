@@ -1,3 +1,7 @@
+> ⚠️ **Archived — legacy / old version, no longer maintained.** Current: [smofast.com](https://smofast.com) · [all repositories](https://github.com/orgs/SMOFast/repositories).
+
+---
+
 # Расширение для браузера (старое) от ivolkoff для SMOFast.
 
 **Расширение для браузера под SMOFast** - это расширение для браузера, разработанное с использованием фреймворка Vue 2.0. Это README поможет вам начать работу над проектом.
